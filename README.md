@@ -29,8 +29,8 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Program:
 ```
-#developed by:Thamana G
-#REg no:26018758
+### developed by:Thamana G
+### Reg no:26018758
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
